@@ -1,5 +1,5 @@
 window.QUIZ_CONFIG = {
-  title: 'PAWBLEMS SQUAD 測你的辦案人格！',
+  title: 'PAWBLEMS SQUAD 超困擾市警局分發測驗！',
   googleAppsScriptUrl: 'https://script.google.com/macros/s/AKfycbwWABH-3VHa-ezVU71B96t_TQrQsmP1c8RJRVeM2imTIBEnleBVK0WahGTu2MEN_24ABQ/exec',
   tieBreaker: 'lastAnswer',
   types: {
